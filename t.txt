@@ -2,3 +2,5 @@ LICENSELICENSELICENSE
 here is t.txt
 content dev2
 content from master
+content dev
+fix content dev2
